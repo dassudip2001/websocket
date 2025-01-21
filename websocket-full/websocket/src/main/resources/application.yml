@@ -1,0 +1,14 @@
+spring:
+  application:
+     name: websocket
+
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ws
+
+
+server:
+  port: 9999
+
+
